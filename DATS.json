@@ -1,0 +1,113 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.10844541",
+        "identifierSource": "DOI"
+    },
+    "title": "(Dataset) Analysis code for the paper \"RF shimming in the cervical spinal cord at 7T\"",
+    "creators": [
+        {
+            "name": "Daniel Papp"
+        },
+        {
+            "name": "Kyle M. Gilbert"
+        },
+        {
+            "name": "Gaspard Cereza"
+        },
+        {
+            "name": "Alexandre D'Astous"
+        },
+        {
+            "name": "Nibardo Lopez-Rios"
+        },
+        {
+            "name": "Mathieu Boudreau"
+        },
+        {
+            "name": "Marcus Couch"
+        },
+        {
+            "name": "Pedram Yazdanbakhsh"
+        },
+        {
+            "name": "Robert L. Barry"
+        },
+        {
+            "name": "Eva Alonso Ortiz"
+        },
+        {
+            "name": "Julien Cohen-Adad"
+        }
+    ],
+    "description": "Dataset provided for NeuroLibre preprint.\n Author repo: https://github.com/shimming-toolbox/rf-shimming-7t \nNeuroLibre fork:https://github.com/roboneurolibre/rf-shimming-7t <p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/25\">NeuroLibre technical screening.</a></p>  \n<p><strong><a href=\"https://neurolibre.org\" target=\"NeuroLibre\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 1.7,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": null,
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2024-03-29 07:32:30",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2024-03-29 07:32:30",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
