@@ -65,6 +65,7 @@
             },
             "access": {
                 "landingPage": "https://zenodo.org/records/10844542",
+                "accessURL": "https://zenodo.org/api/records/10844542/files/Dataset_10.55458_NeuroLibre_00025_6a2af5.zip/content",
                 "authorizations": [
                     {
                         "value": "public"
